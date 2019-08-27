@@ -72,6 +72,7 @@ Generic cookies warning for Ponddy Education Inc.
         display: inline-block;
         position: absolute;
         right: 14px;
+        bottom: 14px;
     }
 
     .cookie-policy a {
