@@ -63,7 +63,7 @@ Generic cookies warning for Ponddy Education Inc.
     color: #FFFFFF;
 }
 
-@media (max-width: 979px) {
+@media (max-width: 1041px) {
     .cookie-policy p {
         text-align: left;
     }
@@ -103,7 +103,7 @@ Generic cookies warning for Ponddy Education Inc.
             <p>This website uses cookies and similar technologies to ensure you get best experience on our website.</p>
         </div>
         <div class="cp-action">
-            <a href="./cookie.html" target="_blank">Policy</a>
+            <a href="./cookie.html" target="_blank">See our policy</a>
             <button>Accept</button>
         </div>
     </div>
